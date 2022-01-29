@@ -4,4 +4,5 @@ This project is a simulation of how a movie ticket booking process takes place i
 Kindly refer to the project report pdf in the repository for a full understanding of the project's functionality and dependencies. 
 
 This application was made using Visual Studio 2012-2022 and SQLPlus.
+
 NOTE : This is not a fully functioning application and is intended for presentation and demonstration purposes only.
